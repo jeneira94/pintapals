@@ -14,7 +14,7 @@ nav:
   - Shapes: 
     - 'Add & Remove Shapes': shapes.md
     - 'Select & Edit Shapes': edit_shapes.md
-  - Text:
+  - Text Management:
     - 'Add & Remove Text': text.md
     - 'Select & Edit Text': edit_text.md
   - Items:
@@ -25,6 +25,7 @@ nav:
     - 'Paint': paint.md
     - 'Pencil': pencil.md
     - 'Clone Stamp': clone.md
+    - 'Erase': erase.md
   - Image Effects: 
     - 'Sepia': sepia.md
     - 'Black and White': bw.md

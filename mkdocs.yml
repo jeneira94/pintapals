@@ -3,12 +3,6 @@ nav:
   - Home: index.md
   - First Steps:
     - 'Getting Started': start.md
-  - Tutorial: tutorial.md
-  - Images:
-    - 'Add & Remove Images': images.md
-    - 'Select & Edit Images': edit_images.md
-  - Layers:
-    - 'Add & Remove Layers': layers.md
     - 'General Overview': overview.md
     - 'Basic Concepts': concept.md
   - Quick Start: 
@@ -30,14 +24,24 @@ nav:
     - 'Rotate': rotate.md
     - 'Flip': flip.md
     - 'Resize': resize.md
+    - 'Crop and Straighten': crop.md
+    - 'Adjust Canvas Size': adjust.md
+    - 'Move': move.md
+  - Image Adjustments:
+    - 'Blurring Image': blur.md
+    - 'Colour Adjustments': colours.md
+    - 'Filtering Image': filter.md
+  - Image Repair & Restoration:
+    - 'Reduce Red-Eye': redeye.md
     - 'Noise Reduction': noise.md
-    - 'Posterize': posterize.md
-  - Colour Level: 
-    - 'Auto Level': auto.md
-    - 'Manual Level': manual.md
-  - Save Project: save.md
-  - Print Project: print.md
-  - Shortcuts: shortcuts.md
-  - Glossary: glossary.md
-  - Test: test.md
+    - 'Remove Objects from Photo': remove.md
+    - 'Clone Stamp Tool': clone.md
+    - 'Image Distortion': distort.md
+  - Exporting Project:
+    - 'Save Project': save.md
+    - 'Print Project': print.md
+  - Appendix:
+    - 'Shortcuts': shortcuts.md
+    - 'Glossary': glossary.md
+    - 'Test': test.md
 theme: readthedocs

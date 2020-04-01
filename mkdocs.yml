@@ -2,7 +2,6 @@ site_name: Pinta Pals
 nav:
   - Home: index.md
   - First Steps:
-    - 'General Overview': overview.md
     - 'Getting Started': start.md
   - Tutorial: tutorial.md
   - Images:
@@ -10,28 +9,27 @@ nav:
     - 'Select & Edit Images': edit_images.md
   - Layers:
     - 'Add & Remove Layers': layers.md
-    - 'View & Edit': edit_layers.md
-  - Shapes: 
-    - 'Add & Remove Shapes': shapes.md
-    - 'Select & Edit Shapes': edit_shapes.md
-  - Text Management:
-    - 'Add & Remove Text': text.md
-    - 'Select & Edit Text': edit_text.md
-  - Items:
-    - 'Add & Remove Items': items.md
-    - 'Select & Edit Items': edit_items.md
-  - Tool Effects:
-    - 'Ink': ink.md
-    - 'Paint': paint.md
-    - 'Pencil': pencil.md
-    - 'Clone Stamp': clone.md
-    - 'Erase': erase.md
-  - Image Effects: 
-    - 'Sepia': sepia.md
-    - 'Black and White': bw.md
-    - 'Blur': blur.md
-    - 'Distort': distort.md
-    - 'Red-Eye Reduction': redeye.md
+    - 'General Overview': overview.md
+    - 'Basic Concepts': concept.md
+  - Quick Start: 
+    - 'Setting Up Project': setup.md
+    - 'Tutorial': tutorial.md
+  - Image Layers:
+    - 'Creating Layers': layers.md
+    - 'Edit Layers': edit_layers.md
+    - 'Remove Layers': remove_layers.md
+  - Drawing & Painting:
+    - 'About Drawing': pencil.md
+    - 'Selection Tool': select.md
+    - 'Selecting Pencil and Brush': paintbrush.md
+    - 'Add Shapes': shapes.md
+    - 'Add Lines & Curves': lines.md
+    - 'Removing Items': items.md
+    - 'Text Management': text.md
+  - Image Transformations:
+    - 'Rotate': rotate.md
+    - 'Flip': flip.md
+    - 'Resize': resize.md
     - 'Noise Reduction': noise.md
     - 'Posterize': posterize.md
   - Colour Level: 

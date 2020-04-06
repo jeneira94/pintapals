@@ -1,0 +1,57 @@
+site_name: Pinta Pals
+nav:
+  - Home: index.md
+  - First Steps:
+    - Getting Started: start.md
+    - General Overview: overview.md
+    - Basic Concepts: concept.md
+  - Quick Start: 
+    - Setting Up Project: setup.md
+    - Tutorial: tutorial.md
+  - Image Layers:
+    - Creating Layers: layers.md
+    - Edit Layers: edit_layers.md
+    - Remove Layers: remove_layers.md
+  - Selecting Objects:
+    - Magic Wand: magicwand.md
+    - Ellipse: ellipse.md
+    - Lasso: lasso.md
+    - Rectangle: rectangle.md
+  - Illustrating:
+    - Choose Pencil and Brush: pencilbrush.md
+    - Creating Simple Objects: objects.md
+    - Coloring: color.md
+    - Removing Items: remove.md
+  - Text Management:
+    - Choose Font and Size: font.md  
+    - Text Style: textstyle.md
+    - Insert Text: textinsert.md
+    - Cut and Delete Text: textcutdelete.md
+    - Erase Text: texterase.md
+  - Image Transformations:
+    - Rotate: rotate.md
+    - Flip: flip.md
+    - Resize: resize.md
+    - Crop and Straighten: crop.md
+    - Adjust Canvas Size: adjust.md
+    - Move: move.md
+  - Image Enhancements:
+    - Improving Colors: improvecolor.md
+    - Image Effects: Imageeffects.md
+    - Filtering: filtering.md
+  - Image Repair & Restoration:
+    - Reduce Red-Eye: redeye.md
+    - Noise Reduction: noise.md
+    - Remove Objects from Photo: remove.md
+    - Clone Stamp Tool: clone.md
+    - Image Distortion: distort.md
+  - Save & Print Project: 
+    - Save Project: save.md
+    - Print Project: print.md
+  - Shortcuts: 
+    - Shortcuts: shortcuts.md
+  - Glossary:
+  - Glossary: glossary.md
+theme: 
+  name: readthedocs
+  extra_css: css/extra.css

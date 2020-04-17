@@ -1,7 +1,7 @@
 ## __Tutorial__ ##
 
 !!! Note
-    Before we begin, please make sure you have setup and understood your workspace. If you have trouble setting up or understanding how to start, please click [here](setup.md) for a quick workspace guide.
+    Before we begin, please make sure you have setup and understood your workspace. If you have trouble setting up or understanding how to start, go back to [**Getting Started**](setup.md) for a quick workspace guide overview.
 
 In this tutorial, we will learn how to create a final image by using these key ingredients and techniques:
 
@@ -29,8 +29,8 @@ The tools we'll use for sketching are:
 
 Now we can get started on sketching our little secret burger!
 
-1. Select Layer 2 in the Layers Window. Make sure the Background layer is __below__ the new layer. 
-2. Double-click the layer to open the Layer Properties. 
+1. Select **Layer 2** in the **Layers Window**. Make sure the **Background** layer is __below__ the new layer. 
+2. Double-click the layer to open the **Layer Properties**. 
 3. Rename the layer to "Sketch". 
 4. Click OK to close the window. 
 5. Select "Sketch" to make it an active layer. 

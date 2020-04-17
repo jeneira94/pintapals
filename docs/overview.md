@@ -111,46 +111,46 @@ __Window__ - has two commands. Below those commands you'll notice an image name 
 
 ![tools](img/overview/toolsname.png)
 
-![Rectangle Select](img/overview/recsel.png) __Rectangle Select__ - used to select portions of the project in a rectangle shape. When a portion of a project is selected, tools that are used will only work in the selected area of the project. If a square selection is needed, hold the `Shift` key when selecting the area. Holding down the left-click button on your mouse to select and holding down the right-click button on your mouse to deselect.
+![Rectangle Select](img/overview/recsel.png) __Rectangle Select__ - use to select portions of the project in a rectangle shape. When a portion of a project is selected, tools that are used will only work in the selected area of the project. If a square selection is needed, hold the `Shift` key when selecting the area. Holding down the left-click button on your mouse to select and holding down the right-click button on your mouse to deselect.
 
-![Lasso Select](img/overview/lasso.png) __Lasso Select__ - used to custom select which sections of the project you want selected. This is done by drawing around the portion of the project you want selected while holding down the left-click button on your mouse.
+![Lasso Select](img/overview/lasso.png) __Lasso Select__ - use to custom select which sections of the project you want selected. This is done by drawing around the portion of the project you want selected while holding down the left-click button on your mouse.
 
 ![Ellipse Select](img/overview/ellsel.png) __Ellipse Select__ - works the same way as the Rectangle Select except it selects in an elliptical shape. Like the Rectangle Select, if you hold the `Shift` key, it will select a circular shape instead of an ellipse.
 
-![Magic Wand Select](img/overview/wand.png) __Magic Wand Select__ - used to select sections of the image that are similar. This tool can be adjusted to grab more or less of the image that resembles where it was used.
+![Magic Wand Select](img/overview/wand.png) __Magic Wand Select__ - use to select sections of the image that are similar. This tool can be adjusted to grab more or less of the image that resembles where it was used.
 
-![Paint Bucket](img/overview/bucket.png) __Paint Bucket__ - used to fill areas of similar color with another solid color.
+![Paint Bucket](img/overview/bucket.png) __Paint Bucket__ - use to fill areas of similar color with another solid color.
 
-![Paint Brush](img/overview/brush.png) __Paint Brush__ - used to make free-hand inking and painting on the layer. This tool can be customized using the Palette and the Tools Settings Bar to change its properties.
+![Paint Brush](img/overview/brush.png) __Paint Brush__ - use to make free-hand inking and painting on the layer. This tool can be customized using the Palette and the Tools Settings Bar to change its properties.
 
-![Pencil](img/overview/pencil.png) __Pencil__ - used to make free-hand pencil marks on the layer that are 1 pixel in size.
+![Pencil](img/overview/pencil.png) __Pencil__ - use to make free-hand pencil marks on the layer that are 1 pixel in size.
 
-![Clone Stamp](img/overview/clone.png) __Clone Stamp__ - used to select a section of the layer that will be replicated into another section. This can be useful for eliminating troublesome sections that has multiple colors, patterns, or textures as it will replicate those section and place them in the layer.
+![Clone Stamp](img/overview/clone.png) __Clone Stamp__ - use to select a section of the layer that will be replicated into another section. This can be useful for eliminating troublesome sections that has multiple colors, patterns, or textures as it will replicate those section and place them in the layer.
 
-![Text](img/overview/text.png) __Text__ - used to add text to the project. This tool has the option to change the font with any font loaded on your computer as well as the font color in the Tools Settings Bar.
+![Text](img/overview/text.png) __Text__ - use to add text to the project. This tool has the option to change the font with any font loaded on your computer as well as the font color in the Tools Settings Bar.
 
-![Rectangle](img/overview/rec.png) __Rectangle__ - used to create rectangles that can be either outlined or filled shapes. If you hold the `Shift` key, it will create a square shape instead of a rectangle. 
+![Rectangle](img/overview/rec.png) __Rectangle__ - use to create rectangles that can be either outlined or filled shapes. If you hold the `Shift` key, it will create a square shape instead of a rectangle. 
 
-![Ellipse](img/overview/ell.png) __Ellipse__ - used to create elliptical shapes that can be either outlined or filled shapes. Like the rectangle tool, if you hold the `Shift` key, it will create a circle shape instead of an ellipse.
+![Ellipse](img/overview/ell.png) __Ellipse__ - use to create elliptical shapes that can be either outlined or filled shapes. Like the rectangle tool, if you hold the `Shift` key, it will create a circle shape instead of an ellipse.
 
-![Move Selected Pixels](img/overview/movepix.png) __Move Selected Pixels__ - used to move or rotate a selected section of the project, and to move or rotate layers of the project. To move, hold down the left-click button on your mouse to drag the selection or layer around. To rotate, hold down the right-click button on your mouse to turn the selection or layer around.
+![Move Selected Pixels](img/overview/movepix.png) __Move Selected Pixels__ - use to move or rotate a selected section of the project, and to move or rotate layers of the project. To move, hold down the left-click button on your mouse to drag the selection or layer around. To rotate, hold down the right-click button on your mouse to turn the selection or layer around.
 
-![Move Selection](img/overview/movesel.png) __Move Selection__ - used to move or rotate the selection itself. To move, hold down the left-click button on your mouse to drag the selection around. To rotate, hold down the right-click button on your mouse to turn the selection around.
+![Move Selection](img/overview/movesel.png) __Move Selection__ - use to move or rotate the selection itself. To move, hold down the left-click button on your mouse to drag the selection around. To rotate, hold down the right-click button on your mouse to turn the selection around.
 
-![Zoom](img/overview/zoom.png) __Zoom__ - used to view the project being worked on more closely. After selecting this tool, click on the section of the image you wish to view more closely.
+![Zoom](img/overview/zoom.png) __Zoom__ - use to view the project being worked on more closely. After selecting this tool, click on the section of the image you wish to view more closely.
 
-![Pan](img/overview/pan.png) __Pan__ - used to move around in the project workspace when the area being worked on is larger than the screen. To use this tool, click in an area (the best area to select is somewhere in the middle of the workspace project) then hold down the left-click button on your mouse and move the hand around. The image will move as if you grabbed the image where you clicked, and push or pull the project in the direction that you moved the hand.
+![Pan](img/overview/pan.png) __Pan__ - use to move around in the project workspace when the area being worked on is larger than the screen. To use this tool, click in an area (the best area to select is somewhere in the middle of the workspace project) then hold down the left-click button on your mouse and move the hand around. The image will move as if you grabbed the image where you clicked, and push or pull the project in the direction that you moved the hand.
 
-![Gradient](img/overview/gradient.png) __Gradient__ - used to create a gradual blend between the primary and secondary color from the palette. Hold down the right-click button on your mouse to reverse the primary and secondary color gradient blend.
+![Gradient](img/overview/gradient.png) __Gradient__ - use to create a gradual blend between the primary and secondary color from the palette. Hold down the right-click button on your mouse to reverse the primary and secondary color gradient blend.
 
-![Eraser](img/overview/eraser.png) __Eraser__ - used to remove parts of a layer. When used on a bottom layer, it will leave a transparent background. When used on a layer other than the bottom will leave a hole in the layer that will show the next underlying layer.
+![Eraser](img/overview/eraser.png) __Eraser__ - use to remove parts of a layer. When used on a bottom layer, it will leave a transparent background. When used on a layer other than the bottom will leave a hole in the layer that will show the next underlying layer.
 
-![Color Picker](img/overview/picker.png) __Color Picker__ - used to select a color from the image or layer you are working on.
+![Color Picker](img/overview/picker.png) __Color Picker__ - use to select a color from the image or layer you are working on.
 
-![Recolor](img/overview/recolor.png) __Recolor__ - used to replace the primary color with the secondary color. Hold down the right-click button on your mouse to reverse the secondary for the primary color.
+![Recolor](img/overview/recolor.png) __Recolor__ - use to replace the primary color with the secondary color. Hold down the right-click button on your mouse to reverse the secondary for the primary color.
 
-![Line/Curve](img/overview/line.png) __Line/Curve__ - used to create either straight or curved lines. To customize the line, change the tool properties in the Tools Settings Bar.
+![Line/Curve](img/overview/line.png) __Line/Curve__ - use to create either straight or curved lines. To customize the line, change the tool properties in the Tools Settings Bar.
 
 ![Rounded Rectangle](img/overview/roundrec.png) __Rounded Rectangle__ - is similar to the rectangle tool except it creates rectangles with rounded corners.
 
-![Freeform Shape](img/overview/freeform.png) __Freeform Shape__ - used to create irregular shapes that can be either outlined or filled shapes.
+![Freeform Shape](img/overview/freeform.png) __Freeform Shape__ - use to create irregular shapes that can be either outlined or filled shapes.
